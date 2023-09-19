@@ -1,0 +1,2 @@
+# LinkBot
+A link bot which clicks to link programatically which is entered by user and opens firefox with the given link and does this operation until all IPs provided by user are read. Users need to install Geckodriver to use this application and put the path of executable file of it in code. Also, Users need to install Mozilla firefox, and they need to put the path of ip.txt file in code to click link from different IPs
